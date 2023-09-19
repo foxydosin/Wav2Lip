@@ -1,5 +1,5 @@
 numpy==1.17.1
-opencv-contrib-python
+opencv-contrib-python==4.8.0.74
 opencv-python
 torch==1.1.0
 torchvision==0.3.0
